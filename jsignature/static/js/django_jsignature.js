@@ -1,4 +1,3 @@
-var $ = django.jQuery;
 $(document).ready(function() {
   $(".jsign-container").each(function(){
     var config = $(this).data('config');
